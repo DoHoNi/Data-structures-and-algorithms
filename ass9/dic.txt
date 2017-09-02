@@ -1,0 +1,10 @@
+cat 고양이
+eat 먹다
+flower 꽃
+apple 사과
+happy 행복한
+watch 시계
+drive 운전하다
+bee 벌
+money 돈
+ant 개미
